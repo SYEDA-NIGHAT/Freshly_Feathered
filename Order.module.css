@@ -1,0 +1,38 @@
+.orderForm {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .orderForm label {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  .orderForm input,
+  .orderForm select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .submitBtn {
+    background-color: #d94930;
+    color: white;
+    padding: 15px 30px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .submitBtn:hover {
+    background-color: #9f2919;
+  }
+  

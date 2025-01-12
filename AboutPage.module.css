@@ -1,0 +1,51 @@
+/* AboutPage.module.css */
+.container {
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+  }
+  
+  .title {
+    font-size: 2rem;
+    color: #c66060;
+    margin-bottom: 20px;
+  }
+  
+  .team {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .member {
+    text-align: center;
+  }
+  
+  .memberImage {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .memberName {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .memberDescription {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .paragraph {
+    font-size: 1.2rem;
+    color: #333;
+    line-height: 1.5;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
